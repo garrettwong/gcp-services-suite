@@ -6,8 +6,16 @@
 
 ## Getting Started
 
+Installation
+
 ```bash
 ./install.osx.git-secrets.sh
+```
+
+Bypass
+
+```bash
+git commit -m "Message" --no-verify
 ```
 
 ## Reference
