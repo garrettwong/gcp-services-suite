@@ -12,7 +12,7 @@ Installation
 ./install.osx.git-secrets.sh
 ```
 
-Bypass
+Bypassing the warning on a `git commit`
 
 ```bash
 git commit -m "Message" --no-verify
